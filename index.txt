@@ -1,0 +1,60 @@
+<div class="col-md-2 kasi pt-md-5 pt-4">
+                    <img src="assets/images/soweto3.jpg" alt="kasi5" />
+                    <span class="border site-btn btn-span">Soweto</span>
+                  </div>
+      
+                  <div class="col-md-2 kasi pt-md-5 pt-4">
+                    <img src="assets/images/vaal4.jpg" alt="kasi6" />
+                    <span class="border site-btn btn-span">Vaal</span>
+                  </div>
+
+                   .slider-two .kasi:hover span {
+   background-color: var(--primary-color);
+   color: white;
+ }
+
+       <!--First Slider-->
+      <div class="container-fluid">
+        <div class="site-slider">
+          <div class="slider-one">
+            <div>
+              <img
+                src="assets/images/food.jpg"
+                class="img-fluid"
+                alt="product1"
+              />
+            </div>
+            <div>
+              <img
+                src="assets/images/Spinza.jpg"
+                class="img-fluid"
+                alt="product2"
+              />
+            </div>
+            <div>
+              <img
+                src="assets/images/spinza2.jpg"
+                class="img-fluid"
+                alt="product3"
+              />
+            </div>
+            <div>
+              <img
+                src="assets/images/foodmarket.jpg"
+                class="img-fluid"
+                alt="product4"
+              />
+            </div>
+          </div>
+
+          <div class="slider-btn">
+            <span class="prev position-top"
+              ><i class="fas fa-chevron-left"></i
+            ></span>
+            <span class="next position-top right-0"
+              ><i class="fas fa-chevron-right"></i
+            ></span>
+          </div>
+        </div>
+      </div>
+      <!--End First Slider-->
